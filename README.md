@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+Template Name: PhotoFolio
+Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
